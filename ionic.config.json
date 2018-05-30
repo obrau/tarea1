@@ -1,0 +1,8 @@
+{
+  "name": "tarea1",
+  "app_id": "6b539aec",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
